@@ -11,6 +11,10 @@ body {
     box-sizing: border-box;
 }
 
+.apresentacao {
+    flex-direction: column;
+}
+
 header {
     background-color: #eb5b74;
     color: #ffffff;
