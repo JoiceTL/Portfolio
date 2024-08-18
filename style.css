@@ -8,6 +8,7 @@ body {
     color: rgb(108, 56, 56);
     text-align: justify;
     height: 100vh;
+    box-sizing: border-box;
 }
 
 header {
