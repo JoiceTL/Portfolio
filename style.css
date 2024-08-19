@@ -9,9 +9,6 @@ body {
     text-align: justify;
     height: 100vh;
     box-sizing: border-box;
-}
-
-.apresentacao {
     flex-direction: column;
     align-items: center;
 }
@@ -20,6 +17,7 @@ header {
     background-color: #eb5b74;
     color: #ffffff;
     padding: 1%;
+    width: 100%;
 }
 
 /* Definir as margens do menu mantendo o background do header ocupando 100% da largura da página */
